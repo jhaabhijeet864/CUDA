@@ -5,7 +5,8 @@
 <h1 align="center">🚀 CUDA Superpower Playground 🚀</h1>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/NVIDIA/cuda-samples/master/Samples/0_Introduction/simpleCUDA/images/cuda-hero.png" width="600" alt="CUDA Hero">
+	<!-- Replaced: Broken CUDA Hero -->
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/CUDA-OIG.png" width="600" alt="CUDA Hero">
 </p>
 
 <p align="center">
@@ -28,7 +29,8 @@ Welcome to the <b>CUDA Superpower Playground</b> — a visually stunning, resour
 ## 🖼️ Gallery
 
 <p align="center">
-	<img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/cuda-homepage-graphic.png" width="700" alt="NVIDIA CUDA Visualization">
+	<!-- Replaced: Broken CUDA Visualization -->
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/NVIDIA_CUDA_Cores_and_Tensor_Cores_on_Ampere.PNG" width="700" alt="NVIDIA CUDA Visualization">
 </p>
 
 ---
@@ -47,7 +49,8 @@ Welcome to the <b>CUDA Superpower Playground</b> — a visually stunning, resour
 ## 🏆 Why CUDA?
 
 <p align="center">
-	<img src="https://images.nvidia.com/aem-dam/Solutions/cuda/cuda-architecture-diagram.png" width="600" alt="CUDA Architecture">
+	<!-- Replaced: Broken Architecture Diagram -->
+	<img src="https://user-images.githubusercontent.com/1595938/114276469-8a79af00-99fb-11eb-93e4-832396a6e230.png" width="600" alt="CUDA Architecture">
 </p>
 
 - **Massive Parallelism**: Harness thousands of GPU cores for computation.
@@ -125,7 +128,8 @@ This project is licensed under the MIT License.
 ---
 
 <p align="center">
-	<img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/cuda-logo.png" width="200" alt="CUDA Logo">
+	<!-- Replaced: Broken CUDA logo -->
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/CUDA1.svg" width="200" alt="CUDA Logo">
 </p>
 
 <p align="center">
