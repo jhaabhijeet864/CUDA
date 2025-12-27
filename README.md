@@ -124,6 +124,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 
-<p align="center">
-  <sub>Built with 💚 by <a href="https://github.com/jhaabhijeet864">@jhaabhijeet864</a></sub>
-</p>
